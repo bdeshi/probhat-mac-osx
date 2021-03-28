@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.probhatkeyboardlayout</string>
+	<key>CFBundleName</key>
+	<string>ProbhatKeyboardLayout</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.0</string>
+	<key>KLInfo_Probhat (BD)</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.probhatkeyboardlayout.probhat(bd)</string>
+		<key>TISIntendedLanguage</key>
+		<string>bn-BD</string>
+	</dict>
+	<key>KLInfo_Probhat (IN)</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.probhatkeyboardlayout.probhat(in)</string>
+		<key>TISIntendedLanguage</key>
+		<string>bn-IN</string>
+	</dict>
+</dict>
+</plist>
