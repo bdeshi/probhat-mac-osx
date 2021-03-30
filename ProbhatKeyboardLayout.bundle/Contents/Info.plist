@@ -7,7 +7,7 @@
 	<key>CFBundleName</key>
 	<string>ProbhatKeyboardLayout</string>
 	<key>CFBundleVersion</key>
-	<string>1.0.0</string>
+	<string>1.0.1</string>
 	<key>KLInfo_Probhat (BD)</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
