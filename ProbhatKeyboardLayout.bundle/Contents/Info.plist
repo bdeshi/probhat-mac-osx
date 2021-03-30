@@ -11,7 +11,7 @@
 	<key>KLInfo_Probhat (BD)</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
-		<false/>
+		<true/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.probhatkeyboardlayout.probhat(bd)</string>
 		<key>TISIntendedLanguage</key>
@@ -20,7 +20,7 @@
 	<key>KLInfo_Probhat (IN)</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
-		<false/>
+		<true/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.probhatkeyboardlayout.probhat(in)</string>
 		<key>TISIntendedLanguage</key>
